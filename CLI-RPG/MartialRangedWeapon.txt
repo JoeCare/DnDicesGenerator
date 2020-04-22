@@ -1,0 +1,5 @@
+blowgun,10 gp,1,piercing,1 lb,ammunition (range 25/100),loading
+hand crossbow,75 gp,1d6,piercing,3 lb,ammunition (range 30/120),light,loading
+heavy crossbow,50 gp,1d10,piercing,18 lb,ammunition (range 100/400),heavy,loading,two-handed
+longbow,50 gp,1d8,piercing,2 lb,ammunition (range 150/600),heavy,two-handed
+net,1 gp,none,3 lb,special,thrown (range 5/15)
